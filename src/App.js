@@ -5,7 +5,7 @@ import Countries from './components/Countires/Countries';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <Countries></Countries>
     </div>
   );

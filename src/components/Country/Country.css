@@ -4,6 +4,12 @@ img {
 }
 
 .country {
-    background-color: aquamarine;
+    background-color: rgb(77, 177, 144);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 5px gray;
+}
 
+h2 {
+    color: #722c2c;
 }
