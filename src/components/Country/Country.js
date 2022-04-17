@@ -3,7 +3,7 @@ import './Country.css';
 const Country = (props) => {
     const { flag, name, capital, alpha3Code, region, population } = props.country;
     return (
-        <div>
+        <div className='country'>
             <img src={flag} alt="" />
             <h2>Name: {name}</h2>
             <h3>Capital: {capital}</h3>

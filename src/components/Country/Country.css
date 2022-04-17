@@ -1,3 +1,9 @@
 img {
     width: 300px;
+    border-radius: 5px;
+}
+
+.country {
+    background-color: aquamarine;
+
 }
